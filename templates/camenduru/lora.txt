@@ -1,3 +1,0 @@
-
-https://huggingface.co/zz1z/akiraToriyamaStyle_toriyamaAkira3/resolve/main/akiraToriyamaStyle_toriyamaAkira3.safetensors
-https://huggingface.co/lemattou/lora-rest-on-stomach-feet-up/resolve/main/pytorch_lora_weights.safetensors
