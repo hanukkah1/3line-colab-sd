@@ -1,7 +1,7 @@
 
 https://github.com/camenduru/stable-diffusion-webui-images-browser
 https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
-
+https://github.com/byzod/a1111-sd-webui-tagcomplete-CN
 https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
