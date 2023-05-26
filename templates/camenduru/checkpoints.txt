@@ -1,4 +1,1 @@
-https://huggingface.co/ailjtb/braBeautifulRealistic/resolve/main/braBeautifulRealistic_brav5.safetensors
-https://huggingface.co/HAttORi/ICBINP-Photorealistic/resolve/main/icbinpICantBelieveIts_v6.safetensors
-https://huggingface.co/jzcz/MoonMix/resolve/main/moonmix_utopia.safetensors
-https://huggingface.co/Slex0/EpicRealism/resolve/main/epicrealism_newAge.safetensors
+
