@@ -1,1 +1,1 @@
-
+https://huggingface.co/ailjtb/braBeautifulRealistic/resolve/main/braBeautifulRealistic_brav5.safetensors
