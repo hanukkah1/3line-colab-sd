@@ -20,4 +20,4 @@ https://github.com/camenduru/sd_webui_stealth_pnginfo
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 https://github.com/AI-skimos/sd-webui-prompt-sr-range
-https://github.com/adieyal/sd-dynamic-prompts
+
