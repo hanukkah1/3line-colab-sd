@@ -1,7 +1,7 @@
 
 https://github.com/camenduru/stable-diffusion-webui-images-browser
 https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
-https://github.com/canisminor1990/sd-webui-kitchen-theme.git
+
 
 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 https://github.com/Mikubill/sd-webui-controlnet.git
